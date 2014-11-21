@@ -1,4 +1,3 @@
-liff
-====
+## liff
 
-Simple and fast fuzzy ID generator (various tests)
+An experiment in fuzzy math (hashing and comparison).
